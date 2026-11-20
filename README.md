@@ -8,4 +8,4 @@ Here, you'll find some design patterns and proofs of concept.
 
 The main focus is easy understanding of the code and the concepts behind, so the implementations provided are trying to be clean and limited to the essential rather than being full fledged libraries. I wrote them for my own understanding and learning.
 
-Feel free to use and adapt/improve them for your own purpose.
+Feel free to use and adapt/improve them for your own purpose; all I'm asking is that you keep my name as the main author as per the MIT License.
